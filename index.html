@@ -3,29 +3,37 @@
   <head>
     <meta charset="utf-8">
     <meta name="description" content="This is the Design Squad 103 landing page">
-    <meta name="viewport" content="width=device-width, initial-scale=&.0">
+    <meta name="viewport" content="width=device-width, initial-scale=.0">
     <title>Design Squad 103 website landing page</title>
 
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
-
-<!-- Styles -->
-<link rel="stylesheet" href="css/normalize.css">
-<link rel="stylesheet" href="css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <!-- Styles -->
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/main.css">
 
   </head>
+
   <body>
      <header>
-       <a href="https://www.ironhack.com/en/courses/web-development-bootcamp/apply" target="_blank">
-       <button type="button" name="button">Apply now</button></a>
 
-         <img src="img/logo.png" alt="logo of Ironhack">
+       <a href="https://www.ironhack.com/en/courses/web-development-bootcamp/apply" target="_blank">
+         <button class="header-button" type="button" name="button">Apply now</button>
+       </a>
+       <img class="header-logo" src="img/logo.png" alt="logo of Ironhack">
+
      </header>
 
 <main>
-  <img src="img/squad.jpg" alt="">
-<!-- This section is about the different program of the bootcamp-->
+
+  <div class="cohort-picture">
+
+  </div>
+
+
+  <!-- This section is about the different program of the bootcamp-->
   <section id="bootcamp-program">
 
 
@@ -34,29 +42,31 @@
 
 
   <h1>Discover the UX/UI bootcamp</h1>
-  <p>Become a UX/UI designer. Learn user-centered design applying the Design Thinking process and validate your ideas through user research, prototyping, user testing, and heuristic evaluation. Learn UI and IxD to prototype your solutions using visual and interaction design techniques. We offer this track in two modalities:
+  <p>Become a UX/UI designer. Learn user-centered design applying the Design Thinking process and validate your ideas through user research, prototyping, user testing, and heuristic evaluation. Learn UI and IxD to prototype your solutions using visual and interaction design techniques. We offer this track in two modalities:</p>
+</div>
 <div class="card-program">
-  <p>9 WEEKS // FULL-TIME</p>
-  <p>Bootcamp Program</p>
-  <p>Monday to Friday from<br/> 9:00 am to 6:00 pm</p>
+  <p class="card-time"> 9 WEEKS // FULL-TIME</p>
+  <p class="card-title"> Bootcamp Program</p>
+  <p class="card-schedule"> Monday to Friday from<br/> 9:00 am to 6:00 pm</p>
   </div>
 <div class="card-program">
-<p>24 WEEKS // FULL-TIME</p>
-<p>Bootcamp Program</p>
-<p>Monday & Wednesday from<br/> 6:30 am to 9:30 pm<br/> Saturday from 10 am to 5 pm</p>
+<p class="card-time">24 WEEKS // FULL-TIME</p>
+<p class="card-title">Part-Time Program</p>
+<p class="card-schedule">Monday & Wednesday from<br/> 6:30 am to 9:30 pm<br/> Saturday from 10 am to 5 pm</p>
   </div>
   </section>
 <!-- This section is about the bootcamp types of projects -->
 
   <section id="Bootcamp-figures">
-    <h2>The Design Squad 103 in figures</h2>
-    <div class="figures-wrapper">
-      <p>21 <span> students</span></p>
-      <p> <span> 3 units</span></p>
-      <p><span>10 weeks</span></p>
-      <p><span>6 projects</span></p>
-      <p></p>
-    </div>
+    <h2 class="figures-title">The Design Squad 103 in figures</h2>
+
+      <div class="figures-wrapper">
+
+        <div class="figure">21 <span> students</span> </div>
+        <div class="figure">3<span>units</span> </div>
+        <div class="figure">10<span>weeks</span> </div>
+        <div class="figure">6<span>projects</span> </div>
+      </div>
 
   </section>
   <section id="bootcamp-project">
@@ -108,180 +118,172 @@
 
   </section>
 
-  <!-- this section introduce the student-->
-  <section id="bootcamp-students">
+      <!-- this section introduce the student-->
+      <section id="bootcamp-students">
 
+        <h2>The students</h2>
 
-
-
-
-
-    <h2>The students</h2>
-    <div class="student">
-<img src="img/students/Angele.png" alt="">
-<p class="student-name"Angèle<p/>
-<p class="student-tagline">yogi master</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Anne.png" alt="">
-<p class="student-name"Anne<p/>
-<p class="student-tagline">Smily coach</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Marion.png" alt="">
-<p class="student-name"Marion<p/>
-<p class="student-tagline">British queen</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Amelie.png" alt="">
-<p class="student-name"Amélie<p/>
-<p class="student-tagline">Apple Scaler</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Oceane.png" alt="">
-<p class="student-name"Oceane<p/>
-<p class="student-tagline">Sweet rocker</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Camille.png" alt="">
-<p class="student-name"Camille<p/>
-<p class="student-tagline">micro interactive Boss</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Hala.png" alt="">
-<p class="student-name"Hala<p/>
-<p class="student-tagline">Mic Dropper</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Kevin.png" alt="">
-<p class="student-name"Kevin<p/>
-<p class="student-tagline">Happy Flower</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Kevin.png" alt="">
-<p class="student-name"Kevin<p/>
-<p class="student-tagline">Happy Flower</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/JulieM.png" alt="">
-<p class="student-name"Julie M<p/>
-<p class="student-tagline">Crazy Mama</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Zivile.png" alt="">
-<p class="student-name"Ziville<p/>
-<p class="student-tagline">Sneaky Smoker</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Audrey.png" alt="">
-<p class="student-name"Audrey<p/>
-<p class="student-tagline">Globe Trotter</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Madaline.png" alt="">
-<p class="student-name"Madaline<p/>
-<p class="student-tagline">American Dreamer</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/JulieS.png" alt="">
-<p class="student-name"Julie S<p/>
-<p class="student-tagline">Movie Lover</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Alex.png" alt="">
-<p class="student-name"Alexandre<p/>
-<p class="student-tagline">Strike Master</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Ana.png" alt="">
-<p class="student-name"Ana<p/>
-<p class="student-tagline"> Soft Strength</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Natalia.png" alt="">
-<p class="student-name"Natalia<p/>
-<p class="student-tagline">Princess of Shadows</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Manon.png" alt="">
-<p class="student-name"Manon<p/>
-<p class="student-tagline">Self Guided</p>
-    </div>
-
-    <div class="student">
-<img src="img/students/Maxime.png" alt="">
-<p class="student-name"Maxime<p/>
-<p class="student-tagline">Speedy Gonzales</p>
-    </div>
-
-    <div class="student">
-    <img src="img/students/Kim.png" alt="">
-    <p class="student-name"Kimberley<p/>
-    <p class="student-tagline">Self Locker</p>
-    </div>
-
-    <div class="student">
-    <img src="France.png" alt="">
-    <p class="student-name"France<p/>
-    <p class="student-tagline">Discrete Leader</p>
-    </div>
-
-  </section>
-  <!-- This section introduce the teachers-->
-  <section id="bootcamp-teachers">
-    <h2>The Teachers</h2>
-    <div class="The Teachers">
-      <img src="img/teachers/Jay.png" alt="">
-      <p class="Teachers-name"Jérémie<p/>
-      <p class="teachers-tagline">Dear leader</p>
-      </div>
-
-    <div class="The Teachers">
-      <img src="img/teachers/Ella.png" alt="">
-      <p class="Teachers-name"Ella<p/>
-      <p class="teachers-tagline">Extrem User</p>
-      </div>
-
-      <div class="The Teachers">
-        <img src="img/teachers/Elo.png" alt="">
-        <p class="Teachers-name"Elo<p/>
-        <p class="teachers-tagline">UI Goddess</p>
-        </div>
-
-        <div class="The Teachers">
-          <img src="img/teachers/Moni.png" alt="">
-          <p class="Teachers-name"Monica<p/>
-          <p class="teachers-tagline">Dev Genius</p>
+          <div class="student">
+            <img src="img/students/Angele.png" alt="">
+            <p class="student-name"Angèle<p/>
+            <p class="student-tagline">yogi master</p>
           </div>
 
-    </div>
+          <div class="student">
+            <img src="img/students/Anne.png" alt="">
+            <p class="student-name"Anne<p/>
+            <p class="student-tagline">Smily coach</p>
+          </div>
+
+          <div class="student">
+            <img src="img/students/Marion.png" alt="">
+            <p class="student-name"Marion<p/>
+            <p class="student-tagline">British queen</p>
+          </div>
+
+          <div class="student">
+            <img src="img/students/Amelie.png" alt="">
+            <p class="student-name"Amélie<p/>
+            <p class="student-tagline">Apple Scaler</p>
+          </div>
+
+          <div class="student">
+            <img src="img/students/Oceane.png" alt="">
+            <p class="student-name"Oceane<p/>
+            <p class="student-tagline">Sweet rocker</p>
+          </div>
+
+          <div class="student">
+            <img src="img/students/Camille.png" alt="">
+            <p class="student-name"Camille<p/>
+            <p class="student-tagline">micro interactive Boss</p>
+          </div>
+
+          <div class="student">
+            <img src="img/students/Hala.png" alt="">
+            <p class="student-name"Hala<p/>
+            <p class="student-tagline">Mic Dropper</p>
+          </div>
+
+          <div class="student">
+            <img src="img/students/Kevin.png" alt="">
+            <p class="student-name"Kevin<p/>
+            <p class="student-tagline">Happy Flower</p>
+          </div>
 
 
-  </section>
-  <footer>
-<h2>Wanna be part of it ?</h2>
- <a href="https://www.ironhack.com/en/courses/web-development-bootcamp/apply"type="button" name="button">Apply now</button></a>
- 
 
-  </footer>
-</main>
+        <div class="student">
+    <img src="img/students/JulieM.png" alt="">
+    <p class="student-name"Julie M<p/>
+    <p class="student-tagline">Crazy Mama</p>
+        </div>
+
+        <div class="student">
+    <img src="img/students/Zivile.png" alt="">
+    <p class="student-name"Ziville<p/>
+    <p class="student-tagline">Sneaky Smoker</p>
+        </div>
+
+        <div class="student">
+    <img src="img/students/Audrey.png" alt="">
+    <p class="student-name"Audrey<p/>
+    <p class="student-tagline">Globe Trotter</p>
+        </div>
+
+        <div class="student">
+    <img src="img/students/Madaline.png" alt="">
+    <p class="student-name"Madaline<p/>
+    <p class="student-tagline">American Dreamer</p>
+        </div>
+
+        <div class="student">
+    <img src="img/students/JulieS.png" alt="">
+    <p class="student-name"Julie S<p/>
+    <p class="student-tagline">Movie Lover</p>
+        </div>
+
+        <div class="student">
+    <img src="img/students/Alex.png" alt="">
+    <p class="student-name"Alexandre<p/>
+    <p class="student-tagline">Strike Master</p>
+        </div>
+
+        <div class="student">
+    <img src="img/students/Ana.png" alt="">
+    <p class="student-name"Ana<p/>
+    <p class="student-tagline"> Soft Strength</p>
+        </div>
+
+        <div class="student">
+    <img src="img/students/Natalia.png" alt="">
+    <p class="student-name"Natalia<p/>
+    <p class="student-tagline">Princess of Shadows</p>
+        </div>
+
+        <div class="student">
+    <img src="img/students/Manon.png" alt="">
+    <p class="student-name"Manon<p/>
+    <p class="student-tagline">Self Guided</p>
+        </div>
+
+        <div class="student">
+          <img src="img/students/Maxime.png" alt="">
+          <p class="student-name"Maxime<p/>
+          <p class="student-tagline">Speedy Gonzales</p>
+        </div>
+
+        <div class="student">
+          <img src="img/students/Kim.png" alt="">
+          <p class="student-name"Kimberley<p/>
+          <p class="student-tagline">Self Locker</p>
+        </div>
+
+        <div class="student">
+          <img src="France.png" alt="">
+          <p class="student-name"France<p/>
+          <p class="student-tagline">Discrete Leader</p>
+        </div>
+
+      </section>
+      <!-- This section introduce the teachers-->
+      <section id="bootcamp-teachers">
+        <h2>The Teachers</h2>
+        <div class="The Teachers">
+          <img src="img/teachers/Jay.png" alt="">
+          <p class="Teachers-name"Jérémie<p/>
+          <p class="teachers-tagline">Dear leader</p>
+          </div>
+
+        <div class="The Teachers">
+          <img src="img/teachers/Ella.png" alt="">
+          <p class="Teachers-name"Ella<p/>
+          <p class="teachers-tagline">Extrem User</p>
+          </div>
+
+          <div class="The Teachers">
+            <img src="img/teachers/Elo.png" alt="">
+            <p class="Teachers-name"Elo<p/>
+            <p class="teachers-tagline">UI Goddess</p>
+            </div>
+
+            <div class="The Teachers">
+              <img src="img/teachers/Moni.png" alt="">
+              <p class="Teachers-name"Monica<p/>
+              <p class="teachers-tagline">Dev Genius</p>
+              </div>
+
+        </div>
+
+
+      </section>
+
+      <footer>
+        <h2>Wanna be part of it ?</h2>
+          <a href="https://www.ironhack.com/en/courses/web-development-bootcamp/apply"type="button" name="button">Apply now</button></a>
+      </footer>
+
+    </main>
 
   </body>
 </html>
