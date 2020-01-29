@@ -790,11 +790,9 @@ div {
 }
 .aboutdesk .barefixcopy {
   background-color    : rgba(255,255,255,0.0);
-  width               : 993px;
-  margin-right        : 16px;
+  width               : 1024px;
   height              : 100%;
   pointer-events      : auto;
-  margin-left         : -16px;
   position            : relative;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
@@ -816,7 +814,7 @@ div {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 68px;
-  width               : 977px;
+  width               : 1008px;
   position            : absolute;
   margin              : 0;
   left                : 16px;
@@ -828,7 +826,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
-  width               : 334px;
+  width               : 344px;
   position            : absolute;
   margin              : 0;
   left                : -1px;
@@ -848,10 +846,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
-  width               : 168px;
+  width               : 173px;
   position            : absolute;
   margin              : 0;
-  left                : 687px;
+  left                : 709px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -864,74 +862,14 @@ div {
   letter-spacing      : 5.55px;
   line-height         : 21.0px;
 }
-.aboutdesk .barefixcopy .nounemail902677 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 38px;
-  width               : 55px;
-  position            : absolute;
-  margin              : 0;
-  left                : 919px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.aboutdesk .barefixcopy .nounemail902677 .group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 38px;
-  width               : 55px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.aboutdesk .barefixcopy .nounemail902677 .group .path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 37px;
-  width               : 54px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.aboutdesk .barefixcopy .nounemail902677 .group .path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 18px;
-  height              : 19px;
-  width               : 53px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.aboutdesk .barefixcopy .nounemail902677 .group .path2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 22px;
-  width               : 53px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .aboutdesk .barefixcopy .about {
   background-color    : rgba(255,255,255,0.0);
   top                 : 16px;
   height              : auto;
-  width               : 76px;
+  width               : 78px;
   position            : absolute;
   margin              : 0;
-  left                : 379px;
+  left                : 391px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -948,10 +886,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : auto;
-  width               : 143px;
+  width               : 147px;
   position            : absolute;
   margin              : 0;
-  left                : 500px;
+  left                : 516px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);

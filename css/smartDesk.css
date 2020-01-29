@@ -54,6 +54,52 @@ div {
   display             : flex;
   left                : 0;
 }
+.smartdesk .gifsp {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 598px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .gifsp-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 7303px;
+  align-items         : center;
+  height              : 497px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .gifsp .iphonemockup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 497px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .gifsp .iphonemockupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 497px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 349px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
 .smartdesk .tableaupersona {
   background-color    : rgba(255,255,255,0.0);
   width               : 686px;
@@ -151,7 +197,7 @@ div {
   flex-direction      : column;
   top                 : 60px;
   align-items         : center;
-  height              : 1023px;
+  height              : 1093px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -294,7 +340,7 @@ div {
 .smartdesk .rolescopecopy2-layout-container {
   pointer-events      : none;
   flex-direction      : column;
-  top                 : 1153px;
+  top                 : 1186px;
   align-items         : center;
   height              : 218px;
   width               : 100%;
@@ -944,112 +990,6 @@ div {
   text-align          : center;
   line-height         : 35.0px;
 }
-.smartdesk .iteration .hifiwireframe {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 133px;
-  height              : 552px;
-  width               : 681px;
-  position            : absolute;
-  margin              : 0;
-  left                : 151px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .iteration .hifiwireframe .rotatosnapshot1copy2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 45px;
-  height              : 482px;
-  width               : 319px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .iteration .hifiwireframe .rotatosnapshot2copy2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 552px;
-  width               : 365px;
-  position            : absolute;
-  margin              : 0;
-  left                : 193px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .iteration .hifiwireframe .a2copy2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 324px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 24.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : left;
-  line-height         : 28.0px;
-}
-.smartdesk .iteration .hifiwireframe .rectanglecopy7 {
-  background-color    : rgba(248, 216, 203, 1.0);
-  top                 : 194px;
-  height              : 165px;
-  width               : 197px;
-  position            : absolute;
-  margin              : 0;
-  left                : 484px;
-  border-radius       : 29px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .iteration .hifiwireframe .a1firstversion2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 230px;
-  height              : auto;
-  width               : 186px;
-  position            : absolute;
-  margin              : 0;
-  left                : 491px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 24.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : left;
-  line-height         : 28.0px;
-}
-.smartdesk .iteration .hifiwireframe .a1copy2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 14px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 225px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 24.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : left;
-  line-height         : 28.0px;
-}
 .smartdesk .iteration .afterhavingtestedcopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 685px;
@@ -1080,84 +1020,6 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-}
-.smartdesk .sphifisignup {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 1041px;
-  height              : 100%;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .sphifisignup-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 6479px;
-  align-items         : center;
-  height              : 534px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.smartdesk .sphifisignup .rotatosnapshot11copy2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 525px;
-  width               : 933px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .sphifisignup .rotatosnapshot22copy2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 89px;
-  height              : 445px;
-  width               : 791px;
-  position            : absolute;
-  margin              : 0;
-  left                : 250px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .sphifisignup .rectanglecopy7 {
-  background-color    : rgba(248, 216, 203, 1.0);
-  top                 : 250px;
-  height              : 124px;
-  width               : 166px;
-  position            : absolute;
-  margin              : 0;
-  left                : 707px;
-  border-radius       : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .sphifisignup .highfidelitycopy2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 297px;
-  height              : auto;
-  width               : 146px;
-  position            : absolute;
-  margin              : 0;
-  left                : 718px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 24.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : left;
-  line-height         : 28.0px;
 }
 .smartdesk .microinteraction {
   background-color    : rgba(255,255,255,0.0);
@@ -1306,7 +1168,7 @@ div {
 }
 .smartdesk .barefixcopy3 {
   background-color    : rgba(255,255,255,0.0);
-  width               : 963px;
+  width               : 1024px;
   height              : 100%;
   pointer-events      : auto;
   position            : relative;
@@ -1317,9 +1179,9 @@ div {
 .smartdesk .barefixcopy3-layout-container {
   pointer-events      : none;
   flex-direction      : column;
-  top                 : 2px;
+  top                 : 0px;
   align-items         : center;
-  height              : 58px;
+  height              : 60px;
   width               : 100%;
   position            : fixed;
   margin              : 0;
@@ -1329,8 +1191,8 @@ div {
 .smartdesk .barefixcopy3 .rectangle1 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 58px;
-  width               : 947px;
+  height              : 60px;
+  width               : 1008px;
   position            : absolute;
   margin              : 0;
   left                : 16px;
@@ -1342,7 +1204,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : auto;
-  width               : 324px;
+  width               : 345px;
   position            : absolute;
   margin              : 0;
   left                : -1px;
@@ -1360,12 +1222,12 @@ div {
 }
 .smartdesk .barefixcopy3 .sayhello {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 12px;
   height              : auto;
-  width               : 163px;
+  width               : 173px;
   position            : absolute;
   margin              : 0;
-  left                : 666px;
+  left                : 709px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -1378,74 +1240,14 @@ div {
   letter-spacing      : 5.55px;
   line-height         : 21.0px;
 }
-.smartdesk .barefixcopy3 .nounemail902677 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 6px;
-  height              : 32px;
-  width               : 53px;
-  position            : absolute;
-  margin              : 0;
-  left                : 891px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .barefixcopy3 .nounemail902677 .group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 32px;
-  width               : 53px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .barefixcopy3 .nounemail902677 .group .path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 31px;
-  width               : 52px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .barefixcopy3 .nounemail902677 .group .path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
-  height              : 16px;
-  width               : 51px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.smartdesk .barefixcopy3 .nounemail902677 .group .path2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 19px;
-  width               : 52px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .smartdesk .barefixcopy3 .about {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 12px;
+  top                 : 13px;
   height              : auto;
-  width               : 74px;
+  width               : 78px;
   position            : absolute;
   margin              : 0;
-  left                : 367px;
+  left                : 391px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -1460,12 +1262,12 @@ div {
 }
 .smartdesk .barefixcopy3 .mywork {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 12px;
   height              : auto;
-  width               : 139px;
+  width               : 147px;
   position            : absolute;
   margin              : 0;
-  left                : 485px;
+  left                : 516px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -1611,6 +1413,98 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .hifiscreens {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 598px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .hifiscreens-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 5629px;
+  align-items         : center;
+  height              : 509px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .hifiscreens .iphonemockupsp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 509px;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .hifiscreens .iphonemockupsp2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 509px;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .signup {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 598px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .signup-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 6444px;
+  align-items         : center;
+  height              : 509px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .signup .iphonemockupsp3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 509px;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .signup .iphonemockup4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 509px;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);

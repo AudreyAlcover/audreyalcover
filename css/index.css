@@ -788,6 +788,765 @@ div {
       opacity: 1;
     }
 }
+.bp1-index {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 2513px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-index .bp1-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 964px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 60px;
+  align-items         : center;
+  height              : 2416px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-index .bp1-group4 .bp1-rectangle {
+  background-color    : rgba(248, 248, 248, 1.0);
+  width               : 964px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-rectangle-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 2416px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-index .bp1-group4 .bp1-myworkgroup {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 201px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-myworkgroup-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 128px;
+  align-items         : center;
+  height              : 251px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-index .bp1-group4 .bp1-myworkgroup .bp1-mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 42.0px;
+}
+.bp1-index .bp1-group4 .bp1-myworkgroup .bp1-vertcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 24px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(-24deg); /* IE 9 */
+  -webkit-transform   : rotate(-24deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-24deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-group4 .bp1-myworkgroup .bp1-vertcopy:hover {
+  transform           : rotate(15deg);
+}
+.bp1-index .bp1-group4 .bp1-myworkgroup .bp1-nounarrows3026997copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 201px;
+  height              : 41px;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  -ms-transform       : rotate(90deg); /* IE 9 */
+  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(90deg);
+}
+.bp1-index .bp1-group4 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 329px;
+  height              : 41px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 446px;
+  -ms-transform       : rotate(90deg); /* IE 9 */
+  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
+  transform           : rotate(90deg);
+}
+.bp1-index .bp1-group4 .bp1-smartphomep {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 239px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-group4 .bp1-smartphomep-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 497px;
+  align-items         : center;
+  height              : 515px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-index .bp1-group4 .bp1-smartphomep:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-group4 .bp1-smartphomep .bp1-rectanglecopy6 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 32px;
+  height              : 12px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-smartphomep .bp1-smartpeople {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 42.0px;
+}
+.bp1-index .bp1-group4 .bp1-smartphomep .bp1-mochupphone {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 113px;
+  height              : 370px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-group4 .bp1-smartphomep .bp1-mochupphone:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.bp1-index .bp1-group4 .bp1-smartphomep .bp1-rectanglecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 471px;
+  height              : 44px;
+  width               : 211px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-group4 .bp1-smartphomep .bp1-rectanglecopy:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.bp1-index .bp1-group4 .bp1-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 454px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-group4 .bp1-group5-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1730px;
+  align-items         : center;
+  height              : 427px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-index .bp1-group4 .bp1-group5:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-group4 .bp1-group5 .bp1-rectanglecopy7 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 20px;
+  height              : 20px;
+  width               : 156px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-group5 .bp1-roomb342 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 42.0px;
+}
+.bp1-index .bp1-group4 .bp1-group5 .bp1-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : 348px;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-group4 .bp1-group5 .bp1-group2:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 716px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1099px;
+  align-items         : center;
+  height              : 452px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-screenrotcache {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : 406px;
+  width               : 716px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-screenrotcache .bp1-rotatosnapshotrain {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 716px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-screenrotcache .bp1-rectangle1 {
+  background-color    : rgba(248, 248, 248, 1.0);
+  top                 : 151px;
+  height              : 104px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 444px;
+  -ms-transform       : rotate(-1deg); /* IE 9 */
+  -webkit-transform   : rotate(-1deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-1deg);
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-rectanglecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 417px;
+  height              : 35px;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-rectanglecopy8:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-rectanglecopy4 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 26px;
+  height              : 13px;
+  width               : 338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 245px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-festivaluichalleng {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -2px;
+  height              : auto;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 245px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 42.0px;
+}
+.bp1-index .bp1-group4 .bp1-footer {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 950px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-footer-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2367px;
+  align-items         : center;
+  height              : 49px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy .bp1-about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 30px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy .bp1-about .bp1-line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 10px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy .bp1-about .bp1-about1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 22.5px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.22px;
+  line-height         : 26.0px;
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy .bp1-pathcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(8deg); /* IE 9 */
+  -webkit-transform   : rotate(8deg); /* Chrome, Safari, Opera */
+  transform           : rotate(8deg);
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 784px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-linkedin .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-medium2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 36px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 909px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-group4 .bp1-footer .bp1-medium2 .bp1-path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-barefixcopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 1004px;
+  margin-right        : 10px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -10px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-barefixcopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 68px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-index .bp1-barefixcopy .bp1-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 988px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-barefixcopy .bp1-audreyalcover {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 338px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.55px;
+  line-height         : 16.5px;
+}
+.bp1-index .bp1-barefixcopy .bp1-sayhello {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 695px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.55px;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-barefixcopy .bp1-about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 383px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.78px;
+  line-height         : 21.0px;
+}
+.bp1-index .bp1-barefixcopy .bp1-mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 505px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
 .bp2-tablette {
   width               : 100%;
   min-width           : 768px;
@@ -876,66 +1635,6 @@ div {
   text-align          : center;
   letter-spacing      : 5.55px;
   line-height         : 21.0px;
-}
-.bp2-tablette .bp2-barefix .bp2-nounemail902677 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : 21px;
-  width               : 32px;
-  position            : absolute;
-  margin              : 0;
-  left                : 646px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-tablette .bp2-barefix .bp2-nounemail902677 .bp2-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 21px;
-  width               : 32px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-tablette .bp2-barefix .bp2-nounemail902677 .bp2-group .bp2-path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 20px;
-  width               : 31px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-tablette .bp2-barefix .bp2-nounemail902677 .bp2-group .bp2-path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 10px;
-  height              : 11px;
-  width               : 30px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-tablette .bp2-barefix .bp2-nounemail902677 .bp2-group .bp2-path2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 12px;
-  width               : 30px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
 }
 .bp2-tablette .bp2-barefix .bp2-about {
   background-color    : rgba(255,255,255,0.0);
@@ -1515,825 +2214,6 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.bp1-index {
-  width               : 100%;
-  min-width           : 1024px;
-  height              : 100vh;
-  min-height          : 2513px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-}
-a {
-  text-decoration     : none;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp1-index .bp1-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 964px;
-  height              : 100%;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 60px;
-  align-items         : center;
-  height              : 2416px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-index .bp1-group4 .bp1-rectangle {
-  background-color    : rgba(248, 248, 248, 1.0);
-  width               : 964px;
-  height              : 100%;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-rectangle-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 0px;
-  align-items         : center;
-  height              : 2416px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-index .bp1-group4 .bp1-myworkgroup {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 201px;
-  height              : 100%;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-myworkgroup-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 128px;
-  align-items         : center;
-  height              : 251px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-index .bp1-group4 .bp1-myworkgroup .bp1-mywork {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 64px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 36.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : center;
-  line-height         : 42.0px;
-}
-.bp1-index .bp1-group4 .bp1-myworkgroup .bp1-vertcopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 34px;
-  height              : 24px;
-  width               : 60px;
-  position            : absolute;
-  margin              : 0;
-  left                : 3px;
-  -ms-transform       : rotate(-24deg); /* IE 9 */
-  -webkit-transform   : rotate(-24deg); /* Chrome, Safari, Opera */
-  transform           : rotate(-24deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-index .bp1-group4 .bp1-myworkgroup .bp1-vertcopy:hover {
-  transform           : rotate(15deg);
-}
-.bp1-index .bp1-group4 .bp1-myworkgroup .bp1-nounarrows3026997copy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 201px;
-  height              : 41px;
-  width               : 59px;
-  position            : absolute;
-  margin              : 0;
-  left                : 107px;
-  -ms-transform       : rotate(90deg); /* IE 9 */
-  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
-  transform           : rotate(90deg);
-}
-.bp1-index .bp1-group4 .bp1-path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 329px;
-  height              : 41px;
-  width               : 58px;
-  position            : absolute;
-  margin              : 0;
-  left                : 446px;
-  -ms-transform       : rotate(90deg); /* IE 9 */
-  -webkit-transform   : rotate(90deg); /* Chrome, Safari, Opera */
-  transform           : rotate(90deg);
-}
-.bp1-index .bp1-group4 .bp1-smartphomep {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 239px;
-  height              : 100%;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-index .bp1-group4 .bp1-smartphomep-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 497px;
-  align-items         : center;
-  height              : 515px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-index .bp1-group4 .bp1-smartphomep:hover {
-  transform           : scale(1.1);
-}
-.bp1-index .bp1-group4 .bp1-smartphomep .bp1-rectanglecopy6 {
-  background-color    : rgba(248, 216, 203, 1.0);
-  top                 : 32px;
-  height              : 12px;
-  width               : 232px;
-  position            : absolute;
-  margin              : 0;
-  left                : 12px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-smartphomep .bp1-smartpeople {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 228px;
-  position            : absolute;
-  margin              : 0;
-  left                : 4px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 36.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : center;
-  line-height         : 42.0px;
-}
-.bp1-index .bp1-group4 .bp1-smartphomep .bp1-mochupphone {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 113px;
-  height              : 370px;
-  width               : 200px;
-  position            : absolute;
-  margin              : 0;
-  left                : 5px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-index .bp1-group4 .bp1-smartphomep .bp1-mochupphone:hover {
-  transform           : translate(0, -5px);
-  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
-}
-.bp1-index .bp1-group4 .bp1-smartphomep .bp1-rectanglecopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 471px;
-  height              : 44px;
-  width               : 211px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-index .bp1-group4 .bp1-smartphomep .bp1-rectanglecopy:hover {
-  transform           : translate(0, -5px);
-  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
-}
-.bp1-index .bp1-group4 .bp1-group5 {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 454px;
-  height              : 100%;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-index .bp1-group4 .bp1-group5-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 1730px;
-  align-items         : center;
-  height              : 427px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-index .bp1-group4 .bp1-group5:hover {
-  transform           : scale(1.1);
-}
-.bp1-index .bp1-group4 .bp1-group5 .bp1-rectanglecopy7 {
-  background-color    : rgba(248, 216, 203, 1.0);
-  top                 : 20px;
-  height              : 20px;
-  width               : 156px;
-  position            : absolute;
-  margin              : 0;
-  left                : 108px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-group5 .bp1-roomb342 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 162px;
-  position            : absolute;
-  margin              : 0;
-  left                : 103px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 36.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : center;
-  line-height         : 42.0px;
-}
-.bp1-index .bp1-group4 .bp1-group5 .bp1-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 68px;
-  height              : 348px;
-  width               : 444px;
-  position            : absolute;
-  margin              : 0;
-  left                : 5px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-index .bp1-group4 .bp1-group5 .bp1-group2:hover {
-  transform           : translate(0, -5px);
-  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 716px;
-  height              : 100%;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 1099px;
-  align-items         : center;
-  height              : 452px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep:hover {
-  transform           : scale(1.1);
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-screenrotcache {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : 406px;
-  width               : 716px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-screenrotcache .bp1-rotatosnapshotrain {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 406px;
-  width               : 716px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-screenrotcache .bp1-rectangle1 {
-  background-color    : rgba(248, 248, 248, 1.0);
-  top                 : 151px;
-  height              : 104px;
-  width               : 18px;
-  position            : absolute;
-  margin              : 0;
-  left                : 444px;
-  -ms-transform       : rotate(-1deg); /* IE 9 */
-  -webkit-transform   : rotate(-1deg); /* Chrome, Safari, Opera */
-  transform           : rotate(-1deg);
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-rectanglecopy8 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 417px;
-  height              : 35px;
-  width               : 161px;
-  position            : absolute;
-  margin              : 0;
-  left                : 258px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-rectanglecopy8:hover {
-  transform           : translate(0, -5px);
-  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-rectanglecopy4 {
-  background-color    : rgba(248, 216, 203, 1.0);
-  top                 : 26px;
-  height              : 13px;
-  width               : 338px;
-  position            : absolute;
-  margin              : 0;
-  left                : 245px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-rainbowhomep .bp1-festivaluichalleng {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -2px;
-  height              : auto;
-  width               : 329px;
-  position            : absolute;
-  margin              : 0;
-  left                : 245px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 36.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : left;
-  line-height         : 42.0px;
-}
-.bp1-index .bp1-group4 .bp1-footer {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 950px;
-  height              : 100%;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-footer-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 2367px;
-  align-items         : center;
-  height              : 49px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 49px;
-  width               : 109px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy .bp1-about {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 19px;
-  height              : 30px;
-  width               : 109px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy .bp1-about .bp1-line3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 20px;
-  height              : 10px;
-  width               : 109px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy .bp1-about .bp1-about1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 89px;
-  position            : absolute;
-  margin              : 0;
-  left                : 3px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 300;
-  font-style          : normal;
-  font-size           : 22.5px;
-  color               : rgba(28, 25, 28, 1.0);
-  text-align          : center;
-  letter-spacing      : 2.22px;
-  line-height         : 26.0px;
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-aboutcopy .bp1-pathcopy4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2px;
-  height              : 21px;
-  width               : 23px;
-  position            : absolute;
-  margin              : 0;
-  left                : 78px;
-  -ms-transform       : rotate(8deg); /* IE 9 */
-  -webkit-transform   : rotate(8deg); /* Chrome, Safari, Opera */
-  transform           : rotate(8deg);
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-linkedin {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 10px;
-  height              : 39px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 784px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-linkedin .bp1-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 39px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-medium2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 12px;
-  height              : 36px;
-  width               : 45px;
-  position            : absolute;
-  margin              : 0;
-  left                : 909px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-group4 .bp1-footer .bp1-medium2 .bp1-path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 35px;
-  width               : 45px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-barefixcopy {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 993px;
-  margin-right        : 16px;
-  height              : 100%;
-  pointer-events      : auto;
-  margin-left         : -16px;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-barefixcopy-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 0px;
-  align-items         : center;
-  height              : 68px;
-  width               : 100%;
-  position            : fixed;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-index .bp1-barefixcopy .bp1-rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 68px;
-  width               : 977px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-barefixcopy .bp1-audreyalcover {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : 334px;
-  position            : absolute;
-  margin              : 0;
-  left                : -1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 900;
-  font-style          : normal;
-  font-size           : 18.0px;
-  color               : rgba(28, 25, 28, 1.0);
-  text-align          : center;
-  letter-spacing      : 5.55px;
-  line-height         : 16.5px;
-}
-.bp1-index .bp1-barefixcopy .bp1-sayhello {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : 168px;
-  position            : absolute;
-  margin              : 0;
-  left                : 687px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 100;
-  font-style          : normal;
-  font-size           : 18.0px;
-  color               : rgba(28, 25, 28, 1.0);
-  text-align          : center;
-  letter-spacing      : 5.55px;
-  line-height         : 21.0px;
-}
-.bp1-index .bp1-barefixcopy .bp1-nounemail902677 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 38px;
-  width               : 55px;
-  position            : absolute;
-  margin              : 0;
-  left                : 919px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-barefixcopy .bp1-nounemail902677 .bp1-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 38px;
-  width               : 55px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-barefixcopy .bp1-nounemail902677 .bp1-group .bp1-path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 37px;
-  width               : 54px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-barefixcopy .bp1-nounemail902677 .bp1-group .bp1-path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 18px;
-  height              : 19px;
-  width               : 53px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-barefixcopy .bp1-nounemail902677 .bp1-group .bp1-path2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 22px;
-  width               : 53px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-index .bp1-barefixcopy .bp1-about {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
-  height              : auto;
-  width               : 76px;
-  position            : absolute;
-  margin              : 0;
-  left                : 379px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 100;
-  font-style          : normal;
-  font-size           : 18.0px;
-  color               : rgba(28, 25, 28, 1.0);
-  text-align          : left;
-  letter-spacing      : 1.78px;
-  line-height         : 21.0px;
-}
-.bp1-index .bp1-barefixcopy .bp1-mywork {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : 143px;
-  position            : absolute;
-  margin              : 0;
-  left                : 500px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto", Helvetica, Arial, serif;
-  font-weight         : 100;
-  font-style          : normal;
-  font-size           : 18.0px;
-  color               : rgba(27, 11, 11, 1.0);
-  text-align          : center;
-  line-height         : 21.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

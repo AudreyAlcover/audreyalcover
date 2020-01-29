@@ -56,7 +56,7 @@ div {
 }
 .rainbowdesk .group3 {
   background-color    : rgba(255,255,255,0.0);
-  width               : 577px;
+  width               : 534px;
   margin-right        : 140px;
   height              : 100%;
   pointer-events      : auto;
@@ -71,31 +71,19 @@ div {
   flex-direction      : column;
   top                 : 5891px;
   align-items         : center;
-  height              : 567px;
+  height              : 41px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
   display             : flex;
   left                : 0;
 }
-.rainbowdesk .group3 .iphonemockup {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 70px;
-  height              : 497px;
-  width               : 249px;
-  position            : absolute;
-  margin              : 0;
-  left                : 328px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .rainbowdesk .group3 .titlevideoproto {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 41px;
   width               : 534px;
-  position            : absolute;
+  position            : relative;
   margin              : 0;
   left                : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
@@ -599,10 +587,10 @@ div {
 .rainbowdesk .midfigroup {
   background-color    : rgba(255,255,255,0.0);
   width               : 931px;
-  margin-right        : -30px;
+  margin-right        : -23px;
   height              : 100%;
   pointer-events      : auto;
-  margin-left         : 30px;
+  margin-left         : 23px;
   position            : relative;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
@@ -620,19 +608,41 @@ div {
   display             : flex;
   left                : 0;
 }
-.rainbowdesk .midfigroup .group2 {
+.rainbowdesk .midfigroup .midfiwiresp {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 759px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.rainbowdesk .midfigroup .midfiwiresp-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 514px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.rainbowdesk .midfigroup .midfiwiresp .group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 156px;
   height              : 341px;
   width               : 262px;
   position            : absolute;
   margin              : 0;
-  left                : 132px;
+  left                : 145px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 341px;
@@ -644,7 +654,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy21 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy21 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
   height              : 14px;
@@ -660,7 +670,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectangle3 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectangle3 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 1px;
   height              : 340px;
@@ -672,7 +682,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .menucopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .menucopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3px;
   height              : auto;
@@ -689,7 +699,7 @@ div {
   text-align          : left;
   line-height         : 7.0px;
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy20 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy20 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 14px;
@@ -701,7 +711,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy19 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy19 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 14px;
@@ -713,7 +723,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .logincopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .logincopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3px;
   height              : auto;
@@ -730,7 +740,7 @@ div {
   text-align          : left;
   line-height         : 7.0px;
 }
-.rainbowdesk .midfigroup .group2 .wirerain .searchcopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .searchcopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3px;
   height              : auto;
@@ -747,7 +757,7 @@ div {
   text-align          : left;
   line-height         : 7.0px;
 }
-.rainbowdesk .midfigroup .group2 .wirerain .nounsearch1482905copy2 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .nounsearch1482905copy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3px;
   height              : 9px;
@@ -759,7 +769,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .nounsearch1482905copy2 .shape {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .nounsearch1482905copy2 .shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 8px;
@@ -771,7 +781,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy18 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy18 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 324px;
   height              : 18px;
@@ -787,7 +797,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy17 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy17 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 324px;
   height              : 18px;
@@ -803,7 +813,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy16 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy16 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 324px;
   height              : 18px;
@@ -819,7 +829,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy15 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy15 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 324px;
   height              : 18px;
@@ -835,7 +845,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .socialnetworkcopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .socialnetworkcopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 330px;
   height              : auto;
@@ -852,7 +862,7 @@ div {
   text-align          : left;
   line-height         : 7.0px;
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy14 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy14 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 324px;
   height              : 18px;
@@ -868,7 +878,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .faqscopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .faqscopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 331px;
   height              : auto;
@@ -885,7 +895,7 @@ div {
   text-align          : left;
   line-height         : 7.0px;
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy13 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy13 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 324px;
   height              : 18px;
@@ -901,7 +911,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy12 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy12 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 324px;
   height              : 18px;
@@ -917,7 +927,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .contactscopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .contactscopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 331px;
   height              : auto;
@@ -934,7 +944,7 @@ div {
   text-align          : left;
   line-height         : 7.0px;
 }
-.rainbowdesk .midfigroup .group2 .wirerain .mediacopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .mediacopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 331px;
   height              : auto;
@@ -951,7 +961,7 @@ div {
   text-align          : left;
   line-height         : 7.0px;
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy11 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy11 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 13px;
   height              : 150px;
@@ -967,7 +977,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .line3copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .line3copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : 150px;
@@ -979,7 +989,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .line4copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .line4copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : 150px;
@@ -991,7 +1001,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy10 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy10 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 211px;
   height              : 74px;
@@ -1007,7 +1017,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy9 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy9 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 211px;
   height              : 74px;
@@ -1023,7 +1033,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .line5copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .line5copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 212px;
   height              : 72px;
@@ -1035,7 +1045,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .line6copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .line6copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 212px;
   height              : 72px;
@@ -1047,7 +1057,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .line7copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .line7copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 211px;
   height              : 75px;
@@ -1059,7 +1069,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .line8copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .line8copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 211px;
   height              : 72px;
@@ -1071,7 +1081,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy8 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy8 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 191px;
   height              : 22px;
@@ -1087,7 +1097,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .picturesandvid351oscopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .picturesandvid351oscopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 198px;
   height              : auto;
@@ -1104,7 +1114,7 @@ div {
   text-align          : left;
   line-height         : 7.0px;
 }
-.rainbowdesk .midfigroup .group2 .wirerain .nounplay173843copy2 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .nounplay173843copy2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 227px;
   height              : 43px;
@@ -1116,7 +1126,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .nounplay173843copy2 .shape {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .nounplay173843copy2 .shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 43px;
@@ -1128,7 +1138,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .nounplay173843copy2 .path {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .nounplay173843copy2 .path {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : 18px;
@@ -1140,7 +1150,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .rectanglecopy7 {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .rectanglecopy7 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 161px;
   height              : 33px;
@@ -1156,7 +1166,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .wirerain .countercopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .wirerain .countercopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 173px;
   height              : auto;
@@ -1173,7 +1183,7 @@ div {
   text-align          : left;
   line-height         : 9.0px;
 }
-.rainbowdesk .midfigroup .group2 .rectanglecopy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .rectanglecopy {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 211px;
   height              : 75px;
@@ -1189,7 +1199,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .line9copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .line9copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 212px;
   height              : 73px;
@@ -1201,7 +1211,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .line10copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .line10copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 212px;
   height              : 73px;
@@ -1213,7 +1223,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .nounplay173843copy {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .nounplay173843copy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 226px;
   height              : 44px;
@@ -1225,7 +1235,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .nounplay173843copy .shape {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .nounplay173843copy .shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 43px;
@@ -1237,7 +1247,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .group2 .nounplay173843copy .path {
+.rainbowdesk .midfigroup .midfiwiresp .group2 .nounplay173843copy .path {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : 18px;
@@ -1249,22 +1259,29 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.rainbowdesk .midfigroup .mochupphonecopy2 {
+.rainbowdesk .midfigroup .midfiwiresp .midfititle {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 107px;
-  height              : 391px;
-  width               : 211px;
+  top                 : 0px;
+  height              : 35px;
+  width               : 300px;
   position            : absolute;
   margin              : 0;
-  left                : 532px;
+  left                : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  transition          : all 0.2s ease-in-out;
 }
-.rainbowdesk .midfigroup .mochupphonecopy2:hover {
-  transform           : translate(0, -5px);
-  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+.rainbowdesk .midfigroup .midfiwiresp .iphonemockupcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 497px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 .rainbowdesk .midfigroup .midfiwireframetitle {
   background-color    : rgba(255,255,255,0.0);
@@ -1337,18 +1354,6 @@ div {
   text-align          : left;
   letter-spacing      : 2.96px;
   line-height         : 35.0px;
-}
-.rainbowdesk .midfititle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3600px;
-  height              : 35px;
-  width               : 300px;
-  position            : absolute;
-  margin              : 0;
-  left                : 63px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
 }
 .rainbowdesk .sumup {
   background-color    : rgba(255,255,255,0.0);
@@ -1655,7 +1660,7 @@ div {
 }
 .rainbowdesk .barefixcopy3 {
   background-color    : rgba(255,255,255,0.0);
-  width               : 963px;
+  width               : 1024px;
   height              : 100%;
   pointer-events      : auto;
   position            : relative;
@@ -1666,9 +1671,9 @@ div {
 .rainbowdesk .barefixcopy3-layout-container {
   pointer-events      : none;
   flex-direction      : column;
-  top                 : 2px;
+  top                 : 0px;
   align-items         : center;
-  height              : 58px;
+  height              : 60px;
   width               : 100%;
   position            : fixed;
   margin              : 0;
@@ -1678,8 +1683,8 @@ div {
 .rainbowdesk .barefixcopy3 .rectangle3 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 58px;
-  width               : 947px;
+  height              : 60px;
+  width               : 1008px;
   position            : absolute;
   margin              : 0;
   left                : 16px;
@@ -1691,7 +1696,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : auto;
-  width               : 324px;
+  width               : 345px;
   position            : absolute;
   margin              : 0;
   left                : -1px;
@@ -1709,12 +1714,12 @@ div {
 }
 .rainbowdesk .barefixcopy3 .sayhello {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 12px;
   height              : auto;
-  width               : 163px;
+  width               : 173px;
   position            : absolute;
   margin              : 0;
-  left                : 666px;
+  left                : 709px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -1727,74 +1732,14 @@ div {
   letter-spacing      : 5.55px;
   line-height         : 21.0px;
 }
-.rainbowdesk .barefixcopy3 .nounemail902677 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 6px;
-  height              : 32px;
-  width               : 53px;
-  position            : absolute;
-  margin              : 0;
-  left                : 891px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.rainbowdesk .barefixcopy3 .nounemail902677 .group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 32px;
-  width               : 53px;
-  position            : relative;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.rainbowdesk .barefixcopy3 .nounemail902677 .group .path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 31px;
-  width               : 52px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.rainbowdesk .barefixcopy3 .nounemail902677 .group .path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
-  height              : 16px;
-  width               : 51px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.rainbowdesk .barefixcopy3 .nounemail902677 .group .path2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 19px;
-  width               : 52px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .rainbowdesk .barefixcopy3 .about {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 12px;
+  top                 : 13px;
   height              : auto;
-  width               : 74px;
+  width               : 78px;
   position            : absolute;
   margin              : 0;
-  left                : 367px;
+  left                : 391px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -1809,12 +1754,12 @@ div {
 }
 .rainbowdesk .barefixcopy3 .mywork {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 12px;
   height              : auto;
-  width               : 139px;
+  width               : 148px;
   position            : absolute;
   margin              : 0;
-  left                : 485px;
+  left                : 515px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -1825,6 +1770,28 @@ div {
   color               : rgba(27, 11, 11, 1.0);
   text-align          : center;
   line-height         : 21.0px;
+}
+.rainbowdesk .iphonemockupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 249px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.rainbowdesk .iphonemockupcopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 5979px;
+  align-items         : center;
+  height              : 497px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
