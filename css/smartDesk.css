@@ -1,0 +1,1696 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:900,300,100|Roboto+Condensed:300');
+
+@font-face {
+                          font-family: "ForteMT";
+                          src: url('../fonts/15236_FORTE.ttf') format("truetype");
+                        }
+                        
+.smartdesk {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 8454px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.smartdesk .rectangle {
+  background-color    : rgba(248, 248, 248, 1.0);
+  width               : 963px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .rectangle-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 60px;
+  align-items         : center;
+  height              : 8361px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .tableaupersona {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 686px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .tableaupersona-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2006px;
+  align-items         : center;
+  height              : 584px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .tableaupersona .ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 564px;
+  height              : 20px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 181px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .tableaupersona .group6copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 516px;
+  width               : 686px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .tableaupersona .rectangle2 {
+  background-color    : rgba(248, 248, 248, 1.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 651px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .tableaupersona .rectangle1 {
+  background-color    : rgba(248, 248, 248, 1.0);
+  top                 : 451px;
+  height              : 96px;
+  width               : 637px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .tableaupersona .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 449px;
+  height              : 120px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 341px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .topcopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 953px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .topcopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 60px;
+  align-items         : center;
+  height              : 1023px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .topcopy .smartpeopleincis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 396px;
+  height              : auto;
+  width               : 931px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.96px;
+  line-height         : 14.32px;
+}
+.smartdesk .topcopy .smartpeopleincis .span1 {
+  line-height         : 35.0px;
+}
+.smartdesk .topcopy .smartpeopleincis .span2 {
+  font-size           : 14.32px;
+  letter-spacing      : 1.41px;
+  line-height         : 16.0px;
+}
+.smartdesk .topcopy .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 343px;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 138px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .topcopy .group2 .rotatosnapshotqpcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 343px;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .topcopy .group2 .rectangle1 {
+  background-color    : rgba(248, 248, 248, 1.0);
+  top                 : 136px;
+  height              : 82px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 388px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(-3deg); /* IE 9 */
+  -webkit-transform   : rotate(-3deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-3deg);
+}
+.smartdesk .topcopy .group2 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 137px;
+  height              : 83px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 384px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .topcopy .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 81px;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .topcopy .group3 .rectanglecopy2 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 0px;
+  height              : 81px;
+  width               : 287px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .topcopy .group3 .smartpeopleelearn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : auto;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.96px;
+  line-height         : 35.0px;
+}
+.smartdesk .rolescopecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 378px;
+  margin-right        : 260px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -260px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .rolescopecopy2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1153px;
+  align-items         : center;
+  height              : 218px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .rolescopecopy2 .uxresearchappdescopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 190px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 22.58px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 27.0px;
+}
+.smartdesk .rolescopecopy2 .groupcopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 148px;
+  height              : 19px;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .rolescopecopy2 .groupcopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 19px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .rolescopecopy2 .rolecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 29.95px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.smartdesk .rolescopecopy2 .scopecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 129px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 29.95px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.smartdesk .rolescopecopy2 .pathcopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 24px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(8deg); /* IE 9 */
+  -webkit-transform   : rotate(8deg); /* Chrome, Safari, Opera */
+  transform           : rotate(8deg);
+  transition          : all 0.2s ease-in-out;
+}
+.smartdesk .rolescopecopy2 .pathcopy9:hover {
+  transform           : rotate(15deg);
+}
+.smartdesk .rolescopecopy2 .pathcopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : 24px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(8deg); /* IE 9 */
+  -webkit-transform   : rotate(8deg); /* Chrome, Safari, Opera */
+  transform           : rotate(8deg);
+  transition          : all 0.2s ease-in-out;
+}
+.smartdesk .rolescopecopy2 .pathcopy8:hover {
+  transform           : rotate(15deg);
+}
+.smartdesk .rolescopecopy2 .digitalproductdesi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 23.77px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.smartdesk .challenge {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 935px;
+  margin-right        : -25px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 25px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .challenge-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1521px;
+  align-items         : center;
+  height              : 350px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .challenge .rectanglecopy23 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 20px;
+  height              : 16px;
+  width               : 155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .challenge .challengewehadto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 932px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.smartdesk .challenge .challengewehadto .span1 {
+  
+}
+.smartdesk .challenge .challengewehadto .span2 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.smartdesk .prototyping {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 932px;
+  margin-right        : -30px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 30px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .prototyping-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 3236px;
+  align-items         : center;
+  height              : 735px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .prototyping .rectanglecopy22 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 19px;
+  height              : 18px;
+  width               : 187px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .prototyping .prototypingfirstb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 932px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.smartdesk .prototyping .prototypingfirstb .span1 {
+  
+}
+.smartdesk .prototyping .prototypingfirstb .span2 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.smartdesk .prototyping .mockupfirocopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 168px;
+  height              : 346px;
+  width               : 187px;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .prototyping .mockupfirocopy2 .mockup1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 346px;
+  width               : 187px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .prototyping .mockupfirocopy2 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 43px;
+  height              : 262px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .prototyping .mockupfirocopy2 .capturedu2019eu0301cran20200113au0300133548 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : 151px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .probmstat {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 626px;
+  margin-right        : 130px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -130px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .probmstat-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2654px;
+  align-items         : center;
+  height              : 489px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .probmstat .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 489px;
+  width               : 626px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .probmstat .group4 .rectanglecopy22 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 19px;
+  height              : 16px;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .probmstat .group4 .problemstatementcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.smartdesk .probmstat .group4 .a1be8hfjuhmn2wlxt741ljfgcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : 286px;
+  width               : 404px;
+  position            : absolute;
+  margin              : 0;
+  left                : 222px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .probmstat .group4 .aboutcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 361px;
+  height              : 128px;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 215px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .probmstat .group4 .aboutcopy3 .rectanglecopy {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 0px;
+  height              : 128px;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .probmstat .group4 .aboutcopy3 .abouttheproblemst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 22.82px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.smartdesk .groupcopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4353px;
+  height              : 9px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .moodstyle {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 786px;
+  margin-right        : 50px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -50px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .moodstyle-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 4090px;
+  align-items         : center;
+  height              : 880px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .moodstyle .bitmapcopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 392px;
+  width               : 699px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .moodstyle .rectanglecopy7 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 17px;
+  height              : 18px;
+  width               : 341px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .moodstyle .moodboardstylet {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.smartdesk .moodstyle .bitmapcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 463px;
+  height              : 416px;
+  width               : 699px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .usability {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 791px;
+  margin-right        : 40px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -40px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .usability-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 5005px;
+  align-items         : center;
+  height              : 495px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .usability .bitmapcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 111px;
+  height              : 384px;
+  width               : 714px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .usability .rectanglecopy20 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 17px;
+  height              : 20px;
+  width               : 470px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .usability .usabilityanddesiracopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.smartdesk .iteration {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 920px;
+  margin-right        : -30px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 30px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .iteration-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 5536px;
+  align-items         : center;
+  height              : 908px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .iteration .rectanglecopy21 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 15px;
+  height              : 20px;
+  width               : 288px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .iteration .hifidelitywirefram {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 35.0px;
+}
+.smartdesk .iteration .hifiwireframe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 133px;
+  height              : 552px;
+  width               : 681px;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .iteration .hifiwireframe .rotatosnapshot1copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : 482px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .iteration .hifiwireframe .rotatosnapshot2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 552px;
+  width               : 365px;
+  position            : absolute;
+  margin              : 0;
+  left                : 193px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .iteration .hifiwireframe .a2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.smartdesk .iteration .hifiwireframe .rectanglecopy7 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 194px;
+  height              : 165px;
+  width               : 197px;
+  position            : absolute;
+  margin              : 0;
+  left                : 484px;
+  border-radius       : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .iteration .hifiwireframe .a1firstversion2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 230px;
+  height              : auto;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : 491px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.smartdesk .iteration .hifiwireframe .a1copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 225px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.smartdesk .iteration .afterhavingtestedcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 685px;
+  height              : auto;
+  width               : 922px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.smartdesk .groupcopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5562px;
+  height              : 9px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .sphifisignup {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 1041px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .sphifisignup-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 6479px;
+  align-items         : center;
+  height              : 534px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .sphifisignup .rotatosnapshot11copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 525px;
+  width               : 933px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .sphifisignup .rotatosnapshot22copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : 445px;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .sphifisignup .rectanglecopy7 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 250px;
+  height              : 124px;
+  width               : 166px;
+  position            : absolute;
+  margin              : 0;
+  left                : 707px;
+  border-radius       : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .sphifisignup .highfidelitycopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 297px;
+  height              : auto;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 718px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.smartdesk .microinteraction {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 910px;
+  margin-right        : -15px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 15px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .microinteraction-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 7078px;
+  align-items         : center;
+  height              : 270px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .microinteraction .tomakegoodmicroicopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : auto;
+  width               : 912px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.smartdesk .microinteraction .rectanglecopy22 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 18px;
+  height              : 22px;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .microinteraction .microinteractionscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.smartdesk .microinteraction .microinteractionscopy .span1 {
+  
+}
+.smartdesk .microinteraction .microinteractionscopy .span2 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.smartdesk .sumup {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 932px;
+  margin-right        : -30px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 30px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .sumup-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 7861px;
+  align-items         : center;
+  height              : 350px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .sumup .rectanglecopy24 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 17px;
+  height              : 22px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .sumup .tosumupmicrointe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 932px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+.smartdesk .sumup .tosumupmicrointe .span1 {
+  
+}
+.smartdesk .sumup .tosumupmicrointe .span2 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.smartdesk .barefixcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 963px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .barefixcopy3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2px;
+  align-items         : center;
+  height              : 58px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .barefixcopy3 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 947px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .barefixcopy3 .audreyalcover {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.55px;
+  line-height         : 16.5px;
+}
+.smartdesk .barefixcopy3 .sayhello {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 666px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.55px;
+  line-height         : 21.0px;
+}
+.smartdesk .barefixcopy3 .nounemail902677 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 32px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 891px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .barefixcopy3 .nounemail902677 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 53px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .barefixcopy3 .nounemail902677 .group .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 31px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .barefixcopy3 .nounemail902677 .group .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .barefixcopy3 .nounemail902677 .group .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .barefixcopy3 .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 367px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.78px;
+  line-height         : 21.0px;
+}
+.smartdesk .barefixcopy3 .mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 485px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.smartdesk .footercopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 955px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .footercopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 8372px;
+  align-items         : center;
+  height              : 49px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.smartdesk .footercopy .aboutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .footercopy .aboutcopy .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 30px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .footercopy .aboutcopy .about .line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 10px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .footercopy .aboutcopy .about .about1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 22.5px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.22px;
+  line-height         : 26.0px;
+}
+.smartdesk .footercopy .aboutcopy .pathcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(8deg); /* IE 9 */
+  -webkit-transform   : rotate(8deg); /* Chrome, Safari, Opera */
+  transform           : rotate(8deg);
+}
+.smartdesk .footercopy .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 789px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .footercopy .linkedin .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .footercopy .medium2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 36px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 914px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.smartdesk .footercopy .medium2 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

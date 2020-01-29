@@ -1,0 +1,1182 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:900,300,100|Roboto+Condensed:300');
+
+@font-face {
+                          font-family: "ForteMT";
+                          src: url('../fonts/15236_FORTE.ttf') format("truetype");
+                        }
+                        
+.aboutdesk {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 2931px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.aboutdesk .rectangle {
+  background-color    : rgba(248, 248, 248, 1.0);
+  width               : 951px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .rectangle-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 68px;
+  align-items         : center;
+  height              : 2821px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .howgroup {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 477px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .howgroup-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 94px;
+  align-items         : center;
+  height              : 439px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .txtstart {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 931px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .txtstart-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 558px;
+  align-items         : center;
+  height              : 525px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .txtstart .istartedbystudyincopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 931px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.38px;
+  line-height         : 35.0px;
+}
+.aboutdesk .txtstart .istartedbystudyincopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .van {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 307px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .van-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1202px;
+  align-items         : center;
+  height              : 192px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .van .nounvan704878copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 173px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.aboutdesk .van .nounvan704878copy:hover {
+  transform           : translate(-5px, 0);
+}
+.aboutdesk .van .linecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : 38px;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.aboutdesk .van .linecopy:hover {
+  transform           : translate(-5px, 0);
+}
+.aboutdesk .aftergroup {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 931px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .aftergroup-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1538px;
+  align-items         : center;
+  height              : 350px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .aftergroup .aftergoingarounda {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 931px;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.38px;
+  line-height         : 35.0px;
+}
+.aboutdesk .aftergroup .aftergoingarounda-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .potdefleur {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 636px;
+  margin-right        : -150px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 150px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .potdefleur-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1466px;
+  align-items         : center;
+  height              : 1354px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .potdefleur .shapecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1353px;
+  width               : 635px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 890px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2146px;
+  align-items         : center;
+  height              : 572px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .whatido .aboutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 43px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .aboutcopy .line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 22px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .aboutcopy .whatido1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 35.32px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 3.49px;
+  line-height         : 42.0px;
+}
+.aboutdesk .whatido .cards {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : 385px;
+  width               : 890px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .explore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 349px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .explore .rectangle1 {
+  background-color    : rgba(255, 253, 253, 1.0);
+  top                 : 0px;
+  height              : 349px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .explore .designsprints {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 223px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .explore .explore1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 84px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .explore .uxstrategy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 183px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Condensed", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.76px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .explore .nounbackpack2420966 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 90px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .learn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 349px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .learn .rectanglecopy3 {
+  background-color    : rgba(255, 253, 253, 1.0);
+  top                 : 0px;
+  height              : 349px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .learn .microinteraction {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 223px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .learn .usertesting {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 269px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .learn .learn1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .learn .prototyping {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 184px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .learn .nouncreativity659359 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 106px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .learn .nouncreativity659359 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 106px;
+  width               : 106px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .learn .nouncreativity659359 .group .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 106px;
+  width               : 106px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .learn .nouncreativity659359 .group .group1 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 106px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 349px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 604px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create .rectanglecopy2 {
+  background-color    : rgba(255, 253, 253, 1.0);
+  top                 : 0px;
+  height              : 349px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create .userflow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 183px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .create .uxuidesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 223px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .create .create1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 26.64px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.63px;
+  line-height         : 32.0px;
+}
+.aboutdesk .whatido .cards .create .nounpaint1822437 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 90px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create .nounpaint1822437 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 93px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create .nounpaint1822437 .group .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create .nounpaint1822437 .group .shape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create .nounpaint1822437 .group .shape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create .nounpaint1822437 .group .shape3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 67px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .cards .create .nounpaint1822437 .group .shape4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 89px;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .pathcopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 33px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .whatido .pathcopy71 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 33px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .barefixcopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 993px;
+  margin-right        : 16px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -16px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .barefixcopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : 68px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .barefixcopy .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 977px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .barefixcopy .audreyalcover {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 334px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.55px;
+  line-height         : 16.5px;
+}
+.aboutdesk .barefixcopy .sayhello {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 687px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.55px;
+  line-height         : 21.0px;
+}
+.aboutdesk .barefixcopy .nounemail902677 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 38px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 919px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .barefixcopy .nounemail902677 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 38px;
+  width               : 55px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .barefixcopy .nounemail902677 .group .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 37px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .barefixcopy .nounemail902677 .group .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 19px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .barefixcopy .nounemail902677 .group .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 22px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .barefixcopy .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.78px;
+  line-height         : 21.0px;
+}
+.aboutdesk .barefixcopy .mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 143px;
+  position            : absolute;
+  margin              : 0;
+  left                : 500px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.aboutdesk .footercopy {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 950px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .footercopy-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 2840px;
+  align-items         : center;
+  height              : 49px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.aboutdesk .footercopy .aboutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .footercopy .aboutcopy .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 30px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .footercopy .aboutcopy .about .line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 10px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .footercopy .aboutcopy .about .about1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 22.5px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.22px;
+  line-height         : 26.0px;
+}
+.aboutdesk .footercopy .aboutcopy .pathcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(8deg); /* IE 9 */
+  -webkit-transform   : rotate(8deg); /* Chrome, Safari, Opera */
+  transform           : rotate(8deg);
+}
+.aboutdesk .footercopy .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 784px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .footercopy .linkedin .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .footercopy .medium2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 36px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 909px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutdesk .footercopy .medium2 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

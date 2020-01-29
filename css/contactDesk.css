@@ -1,0 +1,621 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:900,300,100|Roboto+Condensed:300');
+
+@font-face {
+                          font-family: "ForteMT";
+                          src: url('../fonts/15236_FORTE.ttf') format("truetype");
+                        }
+                        
+.contactdesk {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 1191px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.contactdesk .rectangle {
+  background-color    : rgba(248, 248, 248, 1.0);
+  width               : 975px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .rectangle-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 68px;
+  align-items         : center;
+  height              : 1086px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.contactdesk .picme {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 595px;
+  margin-right        : 130px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : -130px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .picme-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 98px;
+  align-items         : center;
+  height              : 580px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.contactdesk .picme .screenshot20191224122628copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 580px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .picme .rectanglecopy2 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 40px;
+  height              : 213px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 323px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .picme .iu2019mauxuidesignercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : auto;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : 358px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 26.08px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.33px;
+  line-height         : 30.0px;
+}
+.contactdesk .titlework {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 237px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .titlework-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 761px;
+  align-items         : center;
+  height              : 31px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.contactdesk .titlework .rectanglecopy8 {
+  background-color    : rgba(248, 216, 203, 1.0);
+  top                 : 16px;
+  height              : 15px;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .titlework .letu2019sworktogethercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 24.95px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.32px;
+  line-height         : 29.0px;
+}
+.contactdesk .barefixcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 963px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .barefixcopy2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 10px;
+  align-items         : center;
+  height              : 58px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.contactdesk .barefixcopy2 .rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 947px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .barefixcopy2 .audreyalcover {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 900;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.55px;
+  line-height         : 16.5px;
+}
+.contactdesk .barefixcopy2 .sayhello {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 666px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 5.55px;
+  line-height         : 21.0px;
+}
+.contactdesk .barefixcopy2 .nounemail902677 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 32px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 891px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .barefixcopy2 .nounemail902677 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 53px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .barefixcopy2 .nounemail902677 .group .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 31px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .barefixcopy2 .nounemail902677 .group .path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .barefixcopy2 .nounemail902677 .group .path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .barefixcopy2 .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 367px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.78px;
+  line-height         : 21.0px;
+}
+.contactdesk .barefixcopy2 .mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 485px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 100;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.contactdesk .footercopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 950px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .footercopy2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 1105px;
+  align-items         : center;
+  height              : 49px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.contactdesk .footercopy2 .aboutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .footercopy2 .aboutcopy .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 30px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .footercopy2 .aboutcopy .about .line3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 10px;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .footercopy2 .aboutcopy .about .about1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 22.5px;
+  color               : rgba(28, 25, 28, 1.0);
+  text-align          : center;
+  letter-spacing      : 2.22px;
+  line-height         : 26.0px;
+}
+.contactdesk .footercopy2 .aboutcopy .pathcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(8deg); /* IE 9 */
+  -webkit-transform   : rotate(8deg); /* Chrome, Safari, Opera */
+  transform           : rotate(8deg);
+}
+.contactdesk .footercopy2 .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 784px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .footercopy2 .linkedin .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .footercopy2 .medium2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 36px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 909px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .footercopy2 .medium2 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .contactme {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 236px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .contactme-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 865px;
+  align-items         : center;
+  height              : 72px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.contactdesk .contactme .rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 236px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.contactdesk .contactme .contactme1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(27, 11, 11, 1.0);
+  text-align          : left;
+  line-height         : 35.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
